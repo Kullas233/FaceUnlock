@@ -1,6 +1,6 @@
 /UnlockDriver
 /build
-/__pycahce__
+/__pycache__
 /dist
 OG.py
 shape_predictor_68_face_landmarks.dat
