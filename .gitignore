@@ -1,11 +1,6 @@
-/UnlockDriver
-/UnlockDriver/*
-/build/UnlockDriver
-/__pycache__
-/dist
-OG.py
-shape_predictor_68_face_landmarks.dat
-Unlock.exe
-Unlock.pyo
-UnlockDriver.exe
-UnlockDriver.spec
+!Unlock.bat
+!Unlock.ps1
+!Unlock.py
+!UnlockDriver.py
+!dylanFace.jpg
+!lock.ico
