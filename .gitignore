@@ -1,5 +1,6 @@
 /UnlockDriver
-/build
+/UnlockDriver/*
+/build/UnlockDriver
 /__pycache__
 /dist
 OG.py
